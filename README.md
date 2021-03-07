@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.buymeacoffee.com/shenxn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [![Xiaonan Shen's github stats](https://github-readme-stats.vercel.app/api?username=shenxn)](https://github.com/anuraghazra/github-readme-stats)
